@@ -1,6 +1,6 @@
 <h1 align="center"> MediLive - Doctor in a pocket </h1>
 
-[![Watch the video](https://github.com/thejaswin123/MediLive/blob/master/resultonline.png)](https://youtu.be/onzjlKyN5iI)
+[![Watch the video][<https://github.com/thejaswin123/MediLive/blob/master/resultonline.png>]](https://youtu.be/onzjlKyN5iI)
 [![Watch the video](https://github.com/thejaswin123/MediLive/blob/master/Appointment.png)](https://www.youtube.com/watch?v=3ckUMhZOENI&t=2s)
 
 <h3>Problem Statement</h3>
