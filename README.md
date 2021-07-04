@@ -11,9 +11,6 @@
 [<img src = "https://github.com/thejaswin123/MediLive/blob/master/Appointment.png"  width = 500 height = 250>](https://youtu.be/onzjlKyN5iI)
 
 
-[<img src = "https://github.com/thejaswin123/MediLive/blob/master/resultonline.png"  width = 500 height = 250>](https://youtu.be/onzjlKyN5iI)
-[![Watch the video](https://github.com/thejaswin123/MediLive/blob/master/Appointment.png)](https://www.youtube.com/watch?v=3ckUMhZOENI&t=2s)
-
 <h3>Problem Statement</h3>
 We are living in the era of fast internet and technology which has been never lived before. but even due to this fast moving technologies we are often having several issues related with the healthcare such as - 
 
