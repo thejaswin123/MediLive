@@ -1,6 +1,6 @@
 <h1 align="center"> MediLive - Doctor in a pocket </h1>
 
-[![Watch the video](https://bootstrapmade.com/content/templatefiles/Medilab/Medilab-bootstrap-website-template.png)](https://youtu.be/onzjlKyN5iI)
+[![Watch the video](https://bootstrapmade.com/content/templatefiles/Medilab/Medilab-bootstrap-website-template.png) width="50%"](https://youtu.be/onzjlKyN5iI)
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=3ckUMhZOENI&t=2s)
 
 <h3>Problem Statement</h3>
