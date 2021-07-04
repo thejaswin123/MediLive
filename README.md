@@ -7,8 +7,6 @@
 |                    **Demonstration of the Online Result**                    |                        **Demonstration of the Appointment**                       | 
 
 
-[<img src = "https://github.com/thejaswin123/MediLive/blob/master/resultonline.png"  width = 500 height = 250>](https://youtu.be/onzjlKyN5iI)
-[<img src = "https://github.com/thejaswin123/MediLive/blob/master/Appointment.png"  width = 500 height = 250>](https://youtu.be/onzjlKyN5iI)
 
 
 <h3>Problem Statement</h3>
