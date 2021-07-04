@@ -2,7 +2,7 @@
 
 ## Project Maintainers👨🏫::
 
-| <img src = "https://github.com/thejaswin123/MediLive/blob/master/resultonline.png"  width = 500 height = 250>(https://youtu.be/onzjlKyN5iI) | <img src = "https://avatars2.githubusercontent.com/u/40017559?v=4" width = 500 height = 250> | <img src = "./readme_assets/srv.jpg" width = 500 height = 250> |
+| [<img src = "https://github.com/thejaswin123/MediLive/blob/master/resultonline.png"  width = 500 height = 250>](https://youtu.be/onzjlKyN5iI) | <img src = "https://avatars2.githubusercontent.com/u/40017559?v=4" width = 500 height = 250> | <img src = "./readme_assets/srv.jpg" width = 500 height = 250> |
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------: |
 |                    [Smaranjit Ghose](https://github.com/smaranjitghose)\*                    |                        [Anush Bhatia](https://github.com/anushbhatia)                        |     [Srividya Inampudi](https://github.com/sriinampudi)\*     |
 
