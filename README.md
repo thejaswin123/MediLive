@@ -1,6 +1,6 @@
 <h1 align="center"> MediLive - Doctor in a pocket </h1>
  
- ***You can see our PPT through this Link: [Link to ppt](https://www.canva.com/design/DAEamQalHPs/qaekveYKi1g7zokuVaN0pw/view?utm_content=DAEamQalHPs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)*** 
+ ***You can see our PPT through this Link: [Link to ppt](https://www.canva.com/design/DAEamQalHPs/qaekveYKi1g7zokuVaN0pw/view?utm_content=DAEamQalHPs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#13)*** 
 
 ## Contributors
 
