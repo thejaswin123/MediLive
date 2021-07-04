@@ -2,7 +2,7 @@
 
 ## Youtube Videos👨🏫::
 
-   | [<img src = "https://github.com/thejaswin123/MediLive/blob/master/resultonline.png"  width = 500 height = 250>](https://youtu.be/onzjlKyN5iI) | <img src = "https://avatars2.githubusercontent.com/u/40017559?v=4" width = 500 height = 250> | 
+   | [<img src = "https://github.com/thejaswin123/MediLive/blob/master/resultonline.png"  width = 500 height = 250>](https://youtu.be/onzjlKyN5iI) | [<img src = "https://github.com/thejaswin123/MediLive/blob/master/Appointment.png"  width = 500 height = 250>](https://youtu.be/onzjlKyN5iI) | 
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | 
 |                    [Smaranjit Ghose](https://github.com/smaranjitghose)\*                    |                        [Anush Bhatia](https://github.com/anushbhatia)                        | 
 
